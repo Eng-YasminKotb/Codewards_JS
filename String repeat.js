@@ -4,4 +4,4 @@ function repeatStr(n,s){
     return x;
 
 }
-console.log(repeatStr(5,"hello!"))
+
